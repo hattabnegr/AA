@@ -1,0 +1,5 @@
+{
+  "name": "UA & IP Address Checker",
+  "description": "A simple and elegant tool to check your current User Agent (UA) and IPv4 address. It provides a clean interface to quickly view and copy your browser and network information.",
+  "requestFramePermissions": []
+}
