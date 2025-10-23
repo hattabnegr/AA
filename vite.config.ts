@@ -5,7 +5,7 @@ import react from '@vitejs/plugin-react';
 export default defineConfig(({ mode }) => {
     const env = loadEnv(mode, '.', '');
     return {
-      base: '/hattabnegr/',  // ← Thêm dòng này
+      base: '/AA/',  // ← Đổi thành /AA/ (tên repo của bạn)
       server: {
         port: 3000,
         host: '0.0.0.0',
